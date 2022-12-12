@@ -21,9 +21,9 @@ You'll get best use out of this project if you're familiar with basic JavaScript
 
 ## How to use this code
 
-> /> git clone https://github.com/hackenshaw/hellNode <br />
-> /> cd hellNode <br />
-> /> npm start <br />
+> \> git clone https://github.com/hackenshaw/hellNode <br />
+> \> cd hellNode <br />
+> \> npm start <br />
 
 ## Credits
 * CRT Effect: [Alec Lownes](http://aleclownes.com/2017/02/01/crt-display.html)
