@@ -1,5 +1,9 @@
 # hellNode
-A simple Node.js server template
+A simple Node.js server template. 
+
+This template serves ststic files from the public folder and has one route `/hackenshaw`.
+
+[Live Demo](https://hellnode.glitch.me)
 
 ## Prerequisites
 
