@@ -23,6 +23,7 @@ You'll get best use out of this project if you're familiar with basic JavaScript
 
 > \> git clone https://github.com/hackenshaw/hellNode <br />
 > \> cd hellNode <br />
+> \> npm install <br />
 > \> npm start <br />
 
 ## Credits
