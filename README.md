@@ -5,6 +5,8 @@ This template serves ststic files from the public folder and has one route `/hac
 
 [Live Demo](https://hellnode.glitch.me)
 
+[`/hackenshaw`](https://hellnode.glitch.me/hackenshaw)
+
 ## Prerequisites
 
 You'll get best use out of this project if you're familiar with basic JavaScript. If you've written JavaScript for client-side web pages this is a little different because it uses server-side JS, but the syntax is the same!
